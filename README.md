@@ -16,28 +16,34 @@
 
 ---
 
-##  Featured Builds
+## Featured Builds
 
-###  DocTrain AI
-**Multimodal dataset generator for LLMs & VLMs**
+### DocTrain AI
+**Multimodal dataset generator for LLMs and VLMs**
 
-- Converts industrial PDFs into structured training data  
-- Combines OCR, Computer Vision, and LLM-based synthesis  
-- Modular, scalable pipeline design  
-- National-level hackathon project (top ranks)
+DocTrain is a data preparation pipeline designed to convert complex industrial PDFs into high-quality, structured training datasets for large language and vision-language models.
 
-👉 **Repo:** https://github.com/ninidhihi/DocTrain-vlm-llm
+- Extracts text, tables, and diagrams from PDFs
+- Uses OCR, computer vision, and LLM-based synthesis
+- Designed with a modular and scalable pipeline architecture
+- Built and evaluated in a national-level hackathon setting
 
+Repository: https://github.com/ninidhihi/DocTrain-vlm-llm
 
-### 🎮 Grammingo
-**AI-powered grammar & language learning platform**
+---
 
-- Bilingual (Hindi–English) correction  
-- Speech-to-text & image-to-text inputs  
-- Gamified learning (quizzes, leaderboards)
+### Grammingo
+**AI-powered grammar and language learning platform**
 
-👉 **Repo:** https://github.com/ninidhihi/gramminGo  
-👉 **Live:** https://grammingoai.vercel.app
+Grammingo is an interactive language learning system focused on improving grammar through AI-driven feedback and multimodal inputs.
+
+- Supports bilingual Hindi–English correction
+- Accepts speech and image inputs for text generation
+- Incorporates quizzes and leaderboards to improve engagement
+
+Repository: https://github.com/ninidhihi/gramminGo  
+Live Demo: https://grammingoai.vercel.app
+
 
 ---
 
