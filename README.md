@@ -28,7 +28,6 @@
 
 👉 **Repo:** https://github.com/ninidhihi/DocTrain-vlm-llm
 
----
 
 ### 🎮 Grammingo
 **AI-powered grammar & language learning platform**
