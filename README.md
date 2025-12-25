@@ -18,56 +18,27 @@
 
 ## 🚀 Featured Builds
 
-<table>
-<tr>
-<td width="60%">
-
 ### 🧠 DocTrain AI
 **Multimodal dataset generator for LLMs & VLMs**
 
-- Turns industrial PDFs into structured training data  
-- Combines OCR, CV, and LLM-based synthesis  
-- Designed with modular, scalable workflows  
-- National-level hackathon project (Top ranks)
+- Converts industrial PDFs into structured training data  
+- Combines OCR, Computer Vision, and LLM-based synthesis  
+- Modular, scalable pipeline design  
+- National-level hackathon project (top ranks)
 
-<p align="center">
-  <a href="https://github.com/ninidhihi/DocTrain-vlm-llm">
-    <img src="https://img.shields.io/badge/View_Code-232F3E?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+👉 **Repo:** https://github.com/ninidhihi/DocTrain-vlm-llm
 
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/ninidhihi/DocTrain-vlm-llm/main/assets/demo.png"/>
-</td>
-</tr>
-
-<tr>
-<td width="60%">
+---
 
 ### 🎮 Grammingo
-**AI grammar & language learning platform**
+**AI-powered grammar & language learning platform**
 
 - Bilingual (Hindi–English) correction  
-- Speech + image input support  
-- Gamified learning (quizzes, leaderboards)  
-- Built for engagement and retention  
+- Speech-to-text & image-to-text inputs  
+- Gamified learning (quizzes, leaderboards)
 
-<p align="center">
-  <a href="https://github.com/ninidhihi/gramminGo">
-    <img src="https://img.shields.io/badge/View_Code-232F3E?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://grammingoai.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
-
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/ninidhihi/gramminGo/main/assets/demo.gif"/>
-</td>
-</tr>
-</table>
+👉 **Repo:** https://github.com/ninidhihi/gramminGo  
+👉 **Live:** https://grammingoai.vercel.app
 
 ---
 
