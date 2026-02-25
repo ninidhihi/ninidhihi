@@ -42,7 +42,7 @@ Grammingo is an interactive language learning system focused on improving gramma
 - Incorporates quizzes and leaderboards to improve engagement
 
 Repository: https://github.com/ninidhihi/gramminGo  
-Live Demo: https://grammingoai.vercel.app
+
 
 
 ---
